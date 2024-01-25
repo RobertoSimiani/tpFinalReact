@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: solid 2px black;
+
+}
+
+li{
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px;
+}
